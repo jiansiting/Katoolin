@@ -24,9 +24,13 @@ The katoolin toolset and setup-helper is versatile and tries to fit all your nee
 
 ## Installation
 $ git clone https://github.com/jiansiting/katoolin.git
+
 $cp ./katoolin.py /usr/bin/katoolin
+
 $chmod +x /usr/bin/katoolin
+
 $sudo katoolin
+
 
 # Usage
 - start/run: katoolin
